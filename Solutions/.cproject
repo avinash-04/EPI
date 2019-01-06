@@ -85,6 +85,12 @@
                         					
                     </folderInfo>
                     					
+                    <fileInfo id="cdt.managedbuild.config.gnu.cygwin.exe.debug.488888226.452942414" name="DutchNationalFlag.cpp" rcbsApplicability="disable" resourcePath="src/DutchNationalFlag.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.exe.debug.2133143183.316409229">
+                        						
+                        <tool id="cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.exe.debug.2133143183.316409229" name="Cygwin C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.exe.debug.2133143183"/>
+                        					
+                    </fileInfo>
+                    					
                     <sourceEntries>
                         						
                         <entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
@@ -236,5 +242,21 @@
     <storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
     	
     <storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+    	
+    <storageModule moduleId="refreshScope" versionNumber="2">
+        		
+        <configuration configurationName="Debug">
+            			
+            <resource resourceType="PROJECT" workspacePath="/Solutions"/>
+            		
+        </configuration>
+        		
+        <configuration configurationName="Release">
+            			
+            <resource resourceType="PROJECT" workspacePath="/Solutions"/>
+            		
+        </configuration>
+        	
+    </storageModule>
     
 </cproject>

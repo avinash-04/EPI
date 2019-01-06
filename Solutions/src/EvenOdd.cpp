@@ -29,6 +29,7 @@ void reArrange(vector<int>& Arr)
 
 }
 
+#if 0
 int main() {
 
 	vector<int> Arr = { 1,3,3,4,5,6,3,8,9};
@@ -39,3 +40,4 @@ int main() {
 		cout << elem << " " ;
 	return 0;
 }
+#endif
