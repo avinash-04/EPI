@@ -34,7 +34,7 @@ vector<int> Multiply(vector<int> num1, vector<int> num2)
 	return res;
 }
 
-#if 1
+#if 0
 int main() {
 
 	vector<int> A = { 1, 2, 9};
