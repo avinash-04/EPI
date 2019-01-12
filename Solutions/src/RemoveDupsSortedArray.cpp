@@ -41,7 +41,7 @@ int RemoveDupsSortedArray(vector<int> &vec)
 #endif
 }
 
-#if 1
+#if 0
 int main()
 {
 	vector<int> vec = {2,2,2,3,5,5,5,6,7,7,7,7,1000,1001,1001,1001,1002};
