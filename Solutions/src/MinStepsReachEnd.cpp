@@ -66,7 +66,7 @@ int minReachEnd2(vector<int> &vec)
 	return minSteps[0];
 }
 
-#if 1
+#if 0
 int main()
 {
 	vector<int> vec = {3,3,1,0,2,0,1};
