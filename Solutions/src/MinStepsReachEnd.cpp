@@ -62,7 +62,6 @@ int minReachEnd2(vector<int> &vec)
 			minSteps[i] = min(minSteps[i], minSteps[curStep+i]+1);
 		}
 	}
-
 	return minSteps[0];
 }
 
