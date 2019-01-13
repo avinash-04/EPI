@@ -28,7 +28,7 @@ int RemoveAParticularElement(vector<int> &vec, int elem)
 
 }
 
-#if 1
+#if 0
 int main()
 {
 	vector<int> vec = {1,1,2,3,4,2,5,2,2,2,7,8,9,10,2,2};
